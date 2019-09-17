@@ -19,5 +19,4 @@ var pathTwo = function(){
     var body =
         document.querySelector("body");
         body.appendChild(node);
-
 }
