@@ -1,1 +1,12 @@
+body
+h1{
 
+    font-family: monospace;
+
+    font-size: 80px;
+
+    text-align: center;
+
+    color: blue;
+
+}
