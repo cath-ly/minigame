@@ -1,4 +1,9 @@
-body
+body{
+    
+    background-color: light green;
+    
+}
+
 h1{
 
     font-family: monospace;
@@ -7,6 +12,8 @@ h1{
 
     text-align: center;
 
-    color: blue;
+    color: Brown;
 
 }
+
+
